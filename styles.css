@@ -1,0 +1,29 @@
+.heading {
+  font-family: 'Papyrus', 'Georgia', serif;
+  font-size: 60px;
+  font-weight: bold;
+}
+
+.index.heading {  
+  color:blueviolet;
+}
+
+.recipe.heading {
+  text-align: center;
+}
+
+.recipe-img{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  height: 300px;
+}
+
+.list {
+  font-size: 30px;
+}
+
+.description .description-heading {
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
