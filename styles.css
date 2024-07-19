@@ -37,6 +37,14 @@
   height: 300px;
 }
 
+#cooking-gif{
+  max-width: fit-content;
+  margin-left: auto;
+  margin-right: auto;
+  padding-bottom: 30px;
+  padding-top: 0px;
+}
+
 .list {
   font-size: 30px;
 }
